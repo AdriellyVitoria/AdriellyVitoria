@@ -1,12 +1,11 @@
 ### Olá! Eu sou Adrielly Vitoria 👋
 
 - 🔭 Sou Estudante de programação, cursando Análise e Desenvolvimento de Sistemas- UNIFIP
-- ![image](https://user-images.githubusercontent.com/113807573/221434055-018a7f29-8ebb-4145-981f-17a170d1e75a.png) Sou dev em formação ONE4
-- 😄 Pronouns: ela/dela
+- 💻 Sou dev em formação ONE4
+- ✨ Com foco em desenvolver na área de TI
+- 📫 Como chegar ate mim: mendes.silva.vitoria.adrielly@gmail.com
 
-<p align="center">
-  <img src="C:\Users\mende\OneDrive\Área de Trabalho\adrielly\gi_mario.gif">
-</p>
+![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
 
 <div align="center">
   <a href="https://github.com/AdriellyVitoria">
@@ -15,17 +14,21 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
 </div>
 
 ##
 
 <div> 
   <a href="https://www.instagram.com/nunes.avitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatomendes.silva.vitoria.adrielly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="(https://www.linkedin.com/in/adriellymendes-dev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href = "mailto:mendes.silva.vitoria.adrielly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/adriellymendes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
   
