@@ -1,7 +1,12 @@
 ### Olá! Eu sou Adrielly Vitoria 👋
 
 - 🔭 Sou Estudante de programação, cursando Análise e Desenvolvimento de Sistemas- UNIFIP
+- ![image](https://user-images.githubusercontent.com/113807573/221433801-f3fb3d28-77b6-42ac-ae0c-318b5f044261.png) Sou dev em formação ONE4
 - 😄 Pronouns: ela/dela
+
+<p align="center">
+<img src="https://discord.com/channels/@me/1062129147784208394/1062129168646684733">
+</p>
 
 <div align="center">
   <a href="https://github.com/AdriellyVitoria">
@@ -20,7 +25,7 @@
 <div> 
   <a href="https://www.instagram.com/nunes.avitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatomendes.silva.vitoria.adrielly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adrielly-vitoria-silva-mendes-69b9b0253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="(https://www.linkedin.com/in/adriellymendes-dev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
   
