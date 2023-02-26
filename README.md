@@ -1,11 +1,11 @@
 ### Olá! Eu sou Adrielly Vitoria 👋
 
 - 🔭 Sou Estudante de programação, cursando Análise e Desenvolvimento de Sistemas- UNIFIP
-- ![image](https://user-images.githubusercontent.com/113807573/221433801-f3fb3d28-77b6-42ac-ae0c-318b5f044261.png) Sou dev em formação ONE4
+- ![image](https://user-images.githubusercontent.com/113807573/221434055-018a7f29-8ebb-4145-981f-17a170d1e75a.png) Sou dev em formação ONE4
 - 😄 Pronouns: ela/dela
 
 <p align="center">
-<img src="https://discord.com/channels/@me/1062129147784208394/1062129168646684733">
+  <img src="C:\Users\mende\OneDrive\Área de Trabalho\adrielly\gi_mario.gif">
 </p>
 
 <div align="center">
