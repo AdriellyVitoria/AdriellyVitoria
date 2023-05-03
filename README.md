@@ -17,7 +17,6 @@
   <img align="center" alt="Adrielly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt "Adrielly-Java" height="30" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
   
-  ![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
 
 ##
 
